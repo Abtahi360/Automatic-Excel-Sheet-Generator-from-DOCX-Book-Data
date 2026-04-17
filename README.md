@@ -86,19 +86,6 @@ You will get:
 
 ---
 
-## 📂 Project Structure
-
-```
-├── Book.docx
-├── automatic excel sheet generat.ipynb
-├── chapters.xlsx
-├── subsections.xlsx
-├── hadith.xlsx
-└── README.md
-```
-
----
-
 ## 🌍 Real-Life Use Cases & Impact
 
 This project is not just academic, it solves real problems 👇
